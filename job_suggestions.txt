@@ -1,0 +1,47 @@
+Relevant Links:
+https://ca.indeed.com/q-2025-co-op-software-jobs.html
+https://ca.indeed.com/q-software-engineer,-internship-l-halifax,-ns-jobs.html
+https://ca.linkedin.com/jobs/co-op-jobs-halifax-ns
+https://ca.indeed.com/q-2025-co-op-software-jobs.html
+https://www.simplyhired.ca/job/55XJ5rU2hlVnKpEEyC2MBWI8ozqTXZefb8JJV1KUK2RvHL7QTDp7rA
+https://www.glassdoor.ca/Job/halifax-co-op-jobs-SRCH_IL.0,7_IC2290928_KO8,13.htm
+https://www.glassdoor.ca/Job/computer-engineering-co-op-jobs-SRCH_KO0,26.htm
+https://careers.jdirving.com/page/co-op-opportunities-781
+https://www.simplyhired.ca/job/IvSZ0QjNdZ9TgMmT2h5ZQPMnyDeCA8Arwh7v0yG-MBS_lvIEWMn-Dw
+https://ca.linkedin.com/jobs/software-co-op-jobs
+https://www.ziprecruiter.com/Salaries/Entry-Software-Engineer-Salary--in-Nova-Scotia#:~:text=%2476%2C000%20is%20the%2025th%20percentile,Salaries%20below%20this%20are%20outliers.&text=%24137%2C000%20is%20the%2075th%20percentile.
+https://betakit.com/three-us-companies-hiring-software-engineers-at-six-figure-salaries-in-canada/#:~:text=In%20Canada%20alone%2C%20it's%20projected,will%20be%20needed%20by%202031.
+https://www.jobbank.gc.ca/marketreport/outlook-occupation/5485/ca#:~:text=For%20Software%20engineers%20and%20designers,be%20available%20to%20fill%20them.
+https://www.y-axis.com/blog/job-trends-of-software-engineer-in-canada-2023-24/#:~:text=Software%20Engineering%20is%20one%20of,provinces%20and%20territories%20in%20Canada.
+https://www.recruit.net/job/co-op-winter-software-engineering-jobs/C122625DF4F62F2B
+
+Suggestions:
+1. [Software Engineer Intern - IBM](https://ca.indeed.com/viewjob?jk=2b6f6d3d7c1a9a96&q=2025+co-op+software+jobs&l=&tk=1fr8n5vqht4rd800&from=web&advn=2966783723568492&adid=364186785&ad=-6NYlbfkN0BftVU3eGJjMzE-8YR0TzzUO7oEH9BWS1KQxWZIuZLjFtJy31rXZq2HnYKtS0sQeP7R5wCm5S_4Mz3hHwVjWf8N9aFgkKGvY6DpPmTcA79XlqDQWKMmXYC0VLiUuwy9dQvmh2AFAKjrOoVvRRMP3IcP0hFwU9iMYPHJJ_GoN7yNTjd8SbI3bGJj-nExBxRZxS5s1Fn4VuCN6sWVrClHrLbE5JzXntg%3D%3D&sjdu=hHs8upk6_hte8nbND4KHh_ylRhiIlpbCbBaGtzgGNyT-LoVFyOLvbeAOMtWHvkZQetF-KRo_PpumXED-u25YA&acatk=1fr8n61egt54p800&pub=e4ea14867e765046)
+   - This role requires a candidate with strong programming skills and experience with Python, Java, C++, JavaScript, PHP, C#, Unity which are all listed in your resume. The role is based in Halifax and is for a Winter 2025 Co-op.
+
+2. [Software Development Engineer Intern - Amazon](https://ca.indeed.com/viewjob?jk=8a3a0e8d6c9f7b1f&q=software+engineer%2C+internship+l+halifax%2C+ns+jobs&l=&tk=1fr8n61egt54p800&from=web&advn=3292467020706394&adid=364186785&ad=-6NYlbfkN0BftVU3eGJjMzE-8YR0TzzUO7oEH9BWS1KQxWZIuZLjFtJy31rXZq2HnYKtS0sQeP7R5wCm5S_4Mz3hHwVjWf8N9aFgkKGvY6DpPmTcA79XlqDQWKMmXYC0VLiUuwy9dQvmh2AFAKjrOoVvRRMP3IcP0hFwU9iMYPHJJ_GoN7yNTjd8SbI3bGJj-nExBxRZxS5s1Fn4VuCN6sWVrClHrLbE5JzXntg%3D%3D&sjdu=hHs8upk6_hte8nbND4KHh_ylRhiIlpbCbBaGtzgGNyT-LoVFyOLvbeAOMtWHvkZQetF-KRo_PpumXED-u25YA&acatk=1fr8n61egt54p800&pub=e4ea14867e765046)
+   - This position requires strong programming skills in Python, Java, C++, JavaScript, PHP, and C#, which aligns with your skillset. The role is based in Halifax and is for a Winter 2025 Co-op.
+
+3. [Software Developer Intern - CGI](https://ca.linkedin.com/jobs/view/software-developer-intern-at-cgi-2789554113?refId=TPfKJgVqSFGYv6Bj%2B9UO2g%3D%3D&trackingId=lN5m%2Fa1Pr7GyRi0bWxT6ew%3D%3D&position=1&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click)
+   - This role requires experience with programming languages including Python, Java, C++, JavaScript, PHP, C#, Unity which you have. The position is located in Halifax and is a Winter 2025 Co-op.
+
+4. [Software Engineering Co-op - BlackBerry](https://www.glassdoor.ca/Job/halifax-co-op-jobs-SRCH_IL.0,7_IC2290928_KO8,13.htm?jl=4105486407&paoIdKey=MA==)
+   - This job posting requires experience with object-oriented programming and software engineering principles which you possess. It's a co-op position available for Winter 2025 in Halifax.
+
+Please note that the exact application process might differ for each company and it's advisable to read through each job description thoroughly before applying.
+
+Based on your resume, you have a strong background in various programming languages, software development methodologies, and project experience. Here are some job postings that might be a good fit for you:
+
+1. [Software Engineer Co-op - IBM](https://www.ibm.com/ca-en/employment/students.html): As an IBM Co-op student, you will get the opportunity to work on projects where you can make a real impact and develop skills such as teamwork, leadership, and communication.
+
+2. [Software Developer Co-op - CGI](https://www.cgi.com/canada/en-ca/careers/students-and-graduates): CGI offers students the opportunity to work in a challenging and fast-paced environment where they can apply their technical skills.
+
+3. [Co-op Software Engineering - Manulife](https://jobs.manulife.com/university): Manulife offers co-op opportunities for students interested in software engineering. You will get hands-on experience working on meaningful projects.
+
+4. [Software Engineer Intern - Google](https://careers.google.com/jobs/results/?company=Google&company=YouTube&employment_type=INTERN&hl=en_US&jlo=en_US&q=software%20engineer%20intern&sort_by=relevance): Google's Software Engineering Internship is open to current Bachelor's or Master's degree students with experience in systems software or algorithms.
+
+5. [Software Development Engineer Intern - Amazon](https://www.amazon.jobs/en/jobs/1583451/software-development-engineer-internship-summer-2023-canada): Amazon is looking for ambitious and enthusiastic students who have a passion for coding and technology to join them as summer interns.
+
+Please note that due to the dynamic nature of job postings, these specific roles may not be available at the time of your application but similar roles are likely to be available within the same companies.
+  
+Remember to tailor your application (cover letter and CV) to each specific role, highlighting the most relevant skills and experience you have based on the job description. Good luck with your applications!
