@@ -1,0 +1,5 @@
+The main aim of this program is to solve and simplify the job application process. Imagine if you want to apply for any job postings in future let's say Software Engineering Internship or maybe somthing else, Jobizer (Jobs Analyzer) can help you.
+Your tasks as a user will be to attach your resume in the directory where all the python files are available. Jobizer will parse your resume, store it in the memory. After this the user will be asked a couple of questions regarding the jobs they want.
+Following this, the program will search the job postings you want on google by automation using Selenium. The program will fetch all the links from the google home page, store them in a text file and then again it will open those links using Selenium,
+find links of relevant job posting by keyword, save them into an array. This array will be later on passed on to OpenAI's API to check which job posting is good and almost a 100% match according to user's resume. If there is any slight chance of 
+improving the users resume according to the job posting then it will suggest some changes, saving appropriate links and changes into a text file.
